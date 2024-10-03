@@ -1,6 +1,6 @@
 # Image Classification with FastAPI and Streamlit
 
-This project implements an image classification system using a ResNet model. The backend is powered by **FastAPI** and the frontend by **Streamlit**. Users can upload images via a Streamlit web interface, which sends the images to a FastAPI backend that returns the predicted class.
+This project implements an image classification system using a ResNet model and CIFAR-10 dataset. The backend is powered by **FastAPI** and the frontend by **Streamlit**. Users can upload images via a Streamlit web interface, which sends the images to a FastAPI backend that returns the predicted class.
 
 ## Features
 
