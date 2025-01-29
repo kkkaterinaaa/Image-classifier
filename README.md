@@ -36,8 +36,8 @@ To run this project with Docker, you need:
 1. **Clone the Repository**:
 
     ```bash
-    git clone git@github.com:kkkaterinaaa/PMLDL-assignment1.git
-    cd PMLDL-assignment1
+    git clone git@github.com:kkkaterinaaa/Image-classifier.git
+    cd Image-classifier
     ```
 
 2. **Build and Run the Containers**:
